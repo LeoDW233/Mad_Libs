@@ -65,3 +65,5 @@ Otherwise, schedule the update_timer() function to be called again in one second
 The current status of our software is in the maintenance phase, we need to performance optimization, user interface design, and improve the simple interface.
 • Future plan
 The future plan is to develop account functions in the future to record the problems we have done and publish functions, we can share the problems you have completed with the in-game community for others to enjoy.
+
+Demo link:https://youtu.be/OYs98zKJRSI
